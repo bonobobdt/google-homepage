@@ -72,6 +72,9 @@ body{
 
 }
 
+.header a:hover{
+    text-decoration: underline;
+}
 nav img{
     max-height: 18px;
     line-height: normal;
