@@ -46,6 +46,10 @@ body{
     color: #222;
 }
 
+.button input:focus{
+    border:1px solid #4285f4;
+}
+
 .button input{
     background-color: #f2f2f2;
     border: 1px solid #f2f2f2;
